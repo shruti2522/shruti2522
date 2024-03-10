@@ -1,4 +1,4 @@
-<h1 align="center">Hello Guys! I am Shruti 👋</h1>
+<h1 align="center">Hello 👋 I'm Shruti Sharma</h1>
 
 ## About Me
 - 👩‍💻 Full Stack Developer and Open Source Enthusiast. <br>
