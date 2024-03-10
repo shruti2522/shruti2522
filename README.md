@@ -1,12 +1,11 @@
 <h1 align="center">Hello 👋 I'm Shruti Sharma</h1>
 
-## About Me
 - 👩‍💻 Full Stack Developer and Open Source Enthusiast. <br>
 - ✨ Love contributing to and building new projects.<br>
 - 💬 Ask me about **React, Postgres, Nodejs, Go, Rust**.
 - 🐧 Switching between Linux distros for fun!
 - 📬 Reach me at **shruti.apc01@gmail.com**
-- 
+ 
 <div align="center">
   
 ## GitHub Stats
