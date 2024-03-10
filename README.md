@@ -1,4 +1,4 @@
-# Hi fellow developers! I am Shruti Sharma
+<h1 align="center">Hello Guys! I am Shruti! 🌟</h1>
 
 ## About Me
 - 👩‍💻 Full Stack Developer and Open Source Enthusiast. <br>
