@@ -3,7 +3,7 @@
 ## About Me
 - 👩‍💻 Full Stack Developer and Open Source Enthusiast. <br>
 - ✨ Love contributing to and building new projects.<br>
-- 💬 Ask me about **React, Postgres, Nodejs, Go, Rust**
+- 💬 Ask me about **React, Postgres, Nodejs, Go, Rust**.
 - 🐧 Switching between Linux distros for fun! 
   
 ## Tech Stack
