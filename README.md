@@ -7,7 +7,10 @@
 - 🐧 Switching between Linux distros for fun!
 
 ## Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shruti-sharma-26a34b230) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/shsharma02) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@@shsharma02) 
+<a href="https://linkedin.com/in/shruti-sharma-26a34b230"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a> 
+<a href="https://x.com/shsharma02"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X"></a> 
+<a href="https://mastodon.social/@@shsharma02"><img src="https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white" alt="Mastodon"></a> 
+
 
 ## GitHub Stats
 <div style="display: flex; flex-direction: row; justify-content: space-between;">
