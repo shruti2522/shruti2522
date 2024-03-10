@@ -5,16 +5,20 @@
 - ✨ Love contributing to and building new projects.<br>
 - 💬 Ask me about **React, Postgres, Nodejs, Go, Rust**.
 - 🐧 Switching between Linux distros for fun!
-
-## GitHub Stats
+- 📬 Reach me at **shruti.apc01@gmail.com**
+- 
 <div align="center">
+  
+## GitHub Stats
+
   <img src="https://github-readme-stats.vercel.app/api?username=shruti2522&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=en&hide_border=false&order=1" height="180" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shruti2522&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=gruvbox&hide_border=false&order=2" height="180" alt="languages graph"  />
 </div>
 
-## Tech Stack
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
+
+## Tech Stack
+<img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -55,8 +59,9 @@
   <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
 </div>
 
-## Socials
 <div align="center">
+  
+## Socials
   <a href="www.linkedin.com/in/shruti-sharma-26a34b230" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
