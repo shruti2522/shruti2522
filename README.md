@@ -1,4 +1,4 @@
-# Hi fellow developers! I am Shruti 
+# Hi fellow developers! I am Shruti Sharma
 
 ## About Me
 - 👩‍💻 Full Stack Developer and Open Source Enthusiast. <br>
