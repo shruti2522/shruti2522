@@ -5,14 +5,6 @@
 - 💬 Ask me about **React, Postgres, Nodejs, Go, Rust**.
 - 🐧 Switching between Linux distros for fun!
 - 📬 Reach me at **shruti.apc01@gmail.com**
- 
-<div align="center">
-  
-## GitHub Stats
-
-  <img src="https://github-readme-stats.vercel.app/api?username=shruti2522&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=en&hide_border=false&order=1" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shruti2522&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=gruvbox&hide_border=false&order=2" height="180" alt="languages graph"  />
-</div>
 
 <div align="center">
 
@@ -51,6 +43,14 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="40" alt="graphql logo"  />
   <img width="12" />
+</div>
+
+<div align="center">
+  
+## GitHub Stats
+
+  <img src="https://github-readme-stats.vercel.app/api?username=shruti2522&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=en&hide_border=false&order=1" height="180" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shruti2522&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=gruvbox&hide_border=false&order=2" height="180" alt="languages graph"  />
 </div>
 
 <div align="center">
