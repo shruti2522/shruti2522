@@ -6,7 +6,7 @@
 - 💬 Ask me about **React, Postgres, Nodejs, Go, Rust**.
 - 🐧 Switching between Linux distros for fun!
 
-## Connect with me
+## Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shruti-sharma-26a34b230) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/shsharma02) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@@shsharma02) 
 
 ## GitHub Stats
