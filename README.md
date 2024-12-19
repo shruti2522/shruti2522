@@ -2,7 +2,7 @@
 
 - 👩‍💻 Full Stack Developer and Open Source Enthusiast. <br>
 - ✨ Love contributing to and building new projects.<br>
-- 💬 Ask me about **React, Postgres, Nodejs, Go, Rust**.
+- 💬 Ask me about **Rust, React, Postgres, Nodejs**.
 - 🐧 Switching between Linux distros for fun!
 - 📬 Reach me at **shruti.apc01@gmail.com**
 
