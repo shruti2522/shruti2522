@@ -1,5 +1,3 @@
-<h1 align="center">Hello 👋 I'm Shruti Sharma</h1>
-
 - 👩‍💻 Full Stack Developer and Open Source Enthusiast. <br>
 - ✨ Love contributing to and building new projects.<br>
 - 💬 Ask me about **Rust, Linux, React, Postgres, Nodejs**.
